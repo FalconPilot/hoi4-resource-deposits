@@ -1,0 +1,14 @@
+﻿l_english:
+  steel_factory: "Steel foundry"
+  steel_factory_plural: "Steel foundries"
+  steel_factory_desc: "This building provides some infrastructure to process steel for the country's industry"
+  aluminum_factory: "Aluminum foundry"
+  aluminum_factory_plural: "Aluminum foundries"
+  aluminum_factory_desc: "This building provides some infrastructure to process aluminum for the country's industry"
+  chrome_factory: "Chrome foundry"
+  chrome_factory_plural: "Chrome foundries"
+  chrome_factory_desc: "This building provides some infrastructure to process chrome for the country's industry"
+
+  steel_deposit: "Steel processing plant"
+  steel_deposit_plural: "Steel processing plants"
+  steel_deposit_desc: "Additional iron mines and steel processing plants to slightly boost the country's steel production"

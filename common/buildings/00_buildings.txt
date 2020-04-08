@@ -219,4 +219,17 @@ buildings = {
 
     show_modifier = yes
   }
+
+  steel_deposit = {
+    show_on_map = 0
+    base_cost = 7500
+    icon_frame = 18
+    shares_slots = no
+    infrastructure_construction_effect = yes
+    local_resources_steel = 4
+    max_level = 1
+    value = 5
+
+    show_modifier = yes
+  }
 }
