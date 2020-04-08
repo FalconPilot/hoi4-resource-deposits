@@ -12,3 +12,6 @@
   steel_deposit: "Steel processing plant"
   steel_deposit_plural: "Steel processing plants"
   steel_deposit_desc: "Additional iron mines and steel processing plants to slightly boost the country's steel production"
+  aluminum_deposit: "Aluminum processing plant"
+  aluminum_deposit_plural: "Aluminum processing plants"
+  aluminum_deposit_desc: "Additional bauxite mines and aluminum processing plants to slightly boost the country's aluminum production"
