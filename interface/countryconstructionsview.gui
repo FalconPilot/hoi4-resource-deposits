@@ -218,7 +218,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "possible_constructions"
 			position = { x = 438 y = 48 }
-			size = { width = 104 height = 610 }
+			size = { width = 104 height = 602 }
 			verticalScrollbar = "right_vertical_slider"
 			vertical_scroll_step = 45
 			scroll_wheel_factor = 45
