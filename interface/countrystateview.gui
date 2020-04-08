@@ -62,7 +62,7 @@ guiTypes = {
 
         gridBoxType = {
           name = "state_building_entries"
-          position = { x = 155 y = 43 }
+          position = { x = 0 y = 0 }
           size = { width = 480 height = 157 }
           format = "UPPER_LEFT"
           slotsize = { width = 137 height = 52 }
