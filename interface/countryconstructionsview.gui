@@ -85,7 +85,8 @@ guiTypes = {
 				maxWidth = 200
 				maxHeight = 20
 				format = left
-			}			
+			}
+
 			instantTextboxType = {
 				name = "traded_factories_value"
 				position = { x = 159 y = 24 }
@@ -219,7 +220,9 @@ guiTypes = {
 			position = { x = 438 y = 48 }
 			size = { width = 104 height = 610 }
 			verticalScrollbar = "right_vertical_slider"
-			clipping = yes
+			vertical_scroll_step = 45
+			scroll_wheel_factor = 45
+			smooth_scrolling = yes
 			
 #			background = {
 #				name = "Background"
