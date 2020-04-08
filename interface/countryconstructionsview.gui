@@ -2,7 +2,7 @@ guiTypes = {
 
 	containerWindowType = {
 		name = "countryconstructionsview"
-		position = { x=-606 y=78}	
+		position = { x=-606 y=78}
 		show_position = { x=-9 y =78 }
 		show_animation_type = decelerated
 		hide_animation_type = accelerated
@@ -217,7 +217,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "possible_constructions"
 			position = { x = 438 y = 48 }
-			size = { width = 104 height = 100%% }
+			size = { width = 104 height = 100% }
 			verticalScrollbar = "right_vertical_slider"
 			vertical_scroll_step = 50
 			scroll_wheel_factor = 40
