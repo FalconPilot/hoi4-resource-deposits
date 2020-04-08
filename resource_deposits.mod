@@ -4,3 +4,4 @@ tags = {
   "Balance"
   "Gameplay"
 }
+supported_version = "1.9.*"
