@@ -58,7 +58,6 @@ guiTypes = {
 				position = { x = 155 y = 43 }
 				size = { width = 480 height = 105 }
         verticalScrollbar = "right_vertical_slider"
-        clipping = yes
 
         gridBoxType = {
           name = "state_building_entries"
