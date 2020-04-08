@@ -223,6 +223,7 @@ guiTypes = {
 			vertical_scroll_step = 45
 			scroll_wheel_factor = 45
 			smooth_scrolling = yes
+			clipping = yes
 			
 #			background = {
 #				name = "Background"
@@ -641,7 +642,7 @@ guiTypes = {
 			maxWidth = 250
 			maxHeight = 20
 			format = left
-			
+
 			allwaystransparent = yes
 		}
 		
