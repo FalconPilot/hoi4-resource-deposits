@@ -238,13 +238,13 @@ guiTypes = {
 			
 			iconType = {
 				name = "constructions_bg3"
-				position = { x = 0 y = 380 }
+				position = { x = 0 y = 426 }
 				quadTextureSprite = "GFX_constructions_bg2"
 			}
 
 			iconType = {
 				name = "constructions_bg4"
-				position = { x = 0 y = 525 }
+				position = { x = 0 y = 571 }
 				quadTextureSprite = "GFX_constructions_bg3"
 			}
 
@@ -277,7 +277,7 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "shared_item_grid"
-				position = { x = 8 y = 196 }
+				position = { x = 8 y = 242 }
 				size = { width = 100% height = 100% }
 				slotsize = { width = 46 height = 44 }
 				max_slots_horizontal = 2
@@ -286,7 +286,7 @@ guiTypes = {
 			
 			gridBoxType = {
 				name = "province_item_grid"
-				position = { x = 8 y = 422 }
+				position = { x = 8 y = 468 }
 				size = { width = 100% height = 100% }
 				slotsize = { width = 46 height = 44 }
 				max_slots_horizontal = 2
