@@ -217,7 +217,7 @@ guiTypes = {
 		containerWindowType = {
 			name = "possible_constructions"
 			position = { x = 438 y = 48 }
-			size = { width = 104 height = 585 }
+			size = { width = 104 height = 100%% }
 			verticalScrollbar = "right_vertical_slider"
 			vertical_scroll_step = 50
 			scroll_wheel_factor = 40
@@ -297,44 +297,44 @@ guiTypes = {
 				max_slots_horizontal = 2
 				format = "UPPER_LEFT"
 			}
-		}
 
-		buttonType = {
-			name = "convert_ic_button"
-			position = { x = -81 y = 674 }
-			quadTextureSprite ="GFX_convert_ic_button"
-			buttonFont = "Main_14_black"
-			Orientation = "UPPER_RIGHT"
-			pdx_tooltip = "CONSTRUCTION_CONVERT_IC_TOOLTIP"
-			pdx_tooltip_delayed = "CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED"
-		}
-				
-		buttonType = {
-			name = "minimize"
-			position = { x = -74 y = 732 }
-			quadTextureSprite ="GFX_production_line_arrow_left"
-			buttonFont = "Main_14_black"
-			Orientation = "UPPER_RIGHT"
-			pdx_tooltip = "CONSTRUCTION_MINIMIZE"
-		}
-		
-		buttonType = {
-			name = "expand"
-			position = { x = -74 y = 732 }
-			quadTextureSprite ="GFX_production_line_arrow_right"
-			buttonFont = "Main_14_black"
-			Orientation = "UPPER_RIGHT"
-			pdx_tooltip = "CONSTRUCTION_EXPAND"
-		}
-		
-		buttonType = {
-			name = "close_button"
-			position = { x = -43 y = 9 }
-			quadTextureSprite ="GFX_closebutton"
-			buttonFont = "Main_14_black"
-			shortcut = "ESCAPE"
-			Orientation = "UPPER_RIGHT"
-			clicksound = click_close
+			buttonType = {
+				name = "convert_ic_button"
+				position = { x = -81 y = 674 }
+				quadTextureSprite ="GFX_convert_ic_button"
+				buttonFont = "Main_14_black"
+				Orientation = "UPPER_RIGHT"
+				pdx_tooltip = "CONSTRUCTION_CONVERT_IC_TOOLTIP"
+				pdx_tooltip_delayed = "CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED"
+			}
+					
+			buttonType = {
+				name = "minimize"
+				position = { x = -74 y = 732 }
+				quadTextureSprite ="GFX_production_line_arrow_left"
+				buttonFont = "Main_14_black"
+				Orientation = "UPPER_RIGHT"
+				pdx_tooltip = "CONSTRUCTION_MINIMIZE"
+			}
+			
+			buttonType = {
+				name = "expand"
+				position = { x = -74 y = 732 }
+				quadTextureSprite ="GFX_production_line_arrow_right"
+				buttonFont = "Main_14_black"
+				Orientation = "UPPER_RIGHT"
+				pdx_tooltip = "CONSTRUCTION_EXPAND"
+			}
+			
+			buttonType = {
+				name = "close_button"
+				position = { x = -43 y = 9 }
+				quadTextureSprite ="GFX_closebutton"
+				buttonFont = "Main_14_black"
+				shortcut = "ESCAPE"
+				Orientation = "UPPER_RIGHT"
+				clicksound = click_close
+			}
 		}
 		
 		#todo remove, text icons are not being displayed unless they are in gui
