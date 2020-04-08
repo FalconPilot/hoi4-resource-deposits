@@ -325,16 +325,16 @@ guiTypes = {
 				Orientation = "UPPER_RIGHT"
 				pdx_tooltip = "CONSTRUCTION_EXPAND"
 			}
-			
-			buttonType = {
-				name = "close_button"
-				position = { x = -43 y = 9 }
-				quadTextureSprite ="GFX_closebutton"
-				buttonFont = "Main_14_black"
-				shortcut = "ESCAPE"
-				Orientation = "UPPER_RIGHT"
-				clicksound = click_close
-			}
+		}
+
+		buttonType = {
+			name = "close_button"
+			position = { x = -43 y = 9 }
+			quadTextureSprite ="GFX_closebutton"
+			buttonFont = "Main_14_black"
+			shortcut = "ESCAPE"
+			Orientation = "UPPER_RIGHT"
+			clicksound = click_close
 		}
 		
 		#todo remove, text icons are not being displayed unless they are in gui
